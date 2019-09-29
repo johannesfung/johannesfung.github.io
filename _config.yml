@@ -11,7 +11,7 @@ nav:
 # Bio settings
 name: "Johannes Fung"
 description: "The home page of Johannes Fung."
-thumbnail_path: "profile-photos/0.jpg"
+thumbnail_path: "profile-photos/0.jepg"
 
 # URLs
 contact_urls:
@@ -26,7 +26,7 @@ contact_urls:
   email:
     url: "mailto:johannesfung@gmail.com"
     label: "Email"
-    value: "donovanfung@gmail.com"
+    value: "johannesfung@gmail.com"
     icon: "envelope-square"
 
 # Jekyll build settings
